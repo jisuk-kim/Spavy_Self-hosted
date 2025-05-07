@@ -25,14 +25,14 @@
             "id": "6dbd042123befcbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02. 개발/DECISION_Spavy Self-hosted 출시 준비 사항 .md",
-                "mode": "source",
-                "source": false
+                "aFile": "02. 개발/DECISION_Spavy Self-hosted 출시 준비 사항 .md",
+                "bFile": "02. 개발/DECISION_Spavy Self-hosted 출시 준비 사항 .md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "DECISION_Spavy Self-hosted 출시 준비 사항"
+              "icon": "diff",
+              "title": "Diff: DECISION_Spavy Self-hosted 출시 준비 사항"
             }
           }
         ],
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f04b7eb7fcadb589",
+  "active": "6dbd042123befcbe",
   "lastOpenFiles": [
-    "조직관련 - 2025-05-07.md",
     "02. 개발/DECISION_Spavy Self-hosted 출시 준비 사항 .md",
+    "조직관련 - 2025-05-07.md",
     "00.Templates/Test_Log.md",
     "00.Templates/Meeting Note.md",
     "02. 개발/TEST_Spatial Data Positioning (Self hosted).md",

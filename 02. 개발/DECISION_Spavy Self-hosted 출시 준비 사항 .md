@@ -45,7 +45,7 @@ tags:
 | **13** | **Web, Self-hosted* 그 중간 제품이 필요한가 ?** | 사용자가 Web Server에 설치하여 사용                                  | ❌ 미정   | 🔄 진행중     |
 | **14** | **Postgre DB**                        | Sync 빼고 완료, 테스트 가능시기 점검                                   | 🔄 진행중 |            |
 | **15** | **로긴이후 화면(Home)**                     | 화면/기능 Layout 수정                                           | ✅ 결정   |            |
-| **16** | **Power BI**                          | Self Hosted 별도로                                           |        | ✅ 결정       |
+| **16** | **Power BI**                          | Self Hosted 별도로 개발                                        |        | ✅ 결정       |
 | **17** | **Issue List**                        | 출시 시에는 제외 (차후 Update)                                     |        | ✅ 결정       |
 |        |                                       |                                                           |        |            |
 
