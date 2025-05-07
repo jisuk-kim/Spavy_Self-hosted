@@ -25,14 +25,14 @@
             "id": "6dbd042123befcbe",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "02. 개발/DECISION_Spavy Self-hosted 출시 준비 사항 .md",
-                "bFile": "02. 개발/DECISION_Spavy Self-hosted 출시 준비 사항 .md",
-                "aRef": ""
+                "file": "02. 개발/DECISION_Spavy Self-hosted 출시 준비 사항 .md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: DECISION_Spavy Self-hosted 출시 준비 사항"
+              "icon": "lucide-file",
+              "title": "DECISION_Spavy Self-hosted 출시 준비 사항"
             }
           }
         ],
