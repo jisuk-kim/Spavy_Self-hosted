@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spavy Self Hosted (SH) Check List.md",
-                "mode": "source",
+                "file": "📋 할 일 대시보드.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spavy Self Hosted (SH) Check List"
+              "title": "📋 할 일 대시보드"
             }
           }
         ],
@@ -225,10 +225,10 @@
   },
   "active": "80435ecd7397eea3",
   "lastOpenFiles": [
-    "무제.md",
     "Spavy Self Hosted (SH) Check List.md",
+    "📋 할 일 대시보드.md",
     "README.md",
-    "Meeting Minute/Spavy SH Check List_ROK.md",
+    "Meeting Minute/Spavy SH CheckList_ROK.md",
     "Meeting Minute/From ROK/250507 MNGT Meeting Notes.md",
     "Meeting Minute/From ROK/250509 Website Meeting Notes_1차.md",
     "📋 Uncheck 대시보드.md",
