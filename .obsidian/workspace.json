@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Minute/From ROK/250507 MNGT Meeting Notes.md",
+                "file": "Meeting Minute/From ROK/250509 Website Meeting Notes_1차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250507 MNGT Meeting Notes"
+              "title": "250509 Website Meeting Notes_1차"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5f3537b1e138a5e",
+  "active": "aad8799ebd96276d",
   "lastOpenFiles": [
-    "Spavy Self Hosted (SH) Check List.md",
     "Meeting Minute/From ROK/250507 MNGT Meeting Notes.md",
+    "Meeting Minute/From ROK/250509 Website Meeting Notes_1차.md",
+    "Spavy Self Hosted (SH) Check List.md",
     "Meeting Minute/From ROK",
     "Meeting Minute/Spavy Self-Hosted 출시 준비 2차 회의.md",
     "Meeting Minute/Spavy Self-Hosted 출시 준비 3차 회의.md",
@@ -210,7 +211,6 @@
     "00.Templates/Test_log.md",
     "00.Templates/Test_log.md",
     "Test_log.md",
-    "02. 개발/TEST_Spatial Data Positioning.md",
     "02. 개발",
     "03. 운영",
     "00.Templates"
