@@ -1,10 +1,14 @@
 ---
-title: "DECISION_SelfHosted_출시기능구성_및_전략_3차회의"
+title: Spavy Self-Hosted 출시 준비 3차 회의
 date: 2025-05-08
-decider: "PM팀"
-category: "출시전략 / 기능구성 / 퍼블릭URL"
-status: "논의중"
-tags: [결정사항, SelfHosted, URL공유, OTA]
+decider: PM팀
+category: 출시전략 / 기능구성 / 퍼블릭URL
+status: 논의중
+tags:
+  - 결정사항
+  - SelfHosted
+  - URL공유
+  - OTA
 ---
 
 ## 🔹 결정 개요

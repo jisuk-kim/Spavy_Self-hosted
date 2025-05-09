@@ -1,5 +1,5 @@
 ---
-title: "DECISION_Spavy Self-hosted 출시 준비 사항 "
+title: Spavy Self-Hosted 출시준비 1차 회의
 date: 2025-04-30
 decider: 김영록
 category: 출시계획, 기술명세

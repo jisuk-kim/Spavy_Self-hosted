@@ -1,11 +1,17 @@
 ---
-title: "Spavy Self Hosted (SH) Check List"
+title: Spavy Self Hosted (SH) Check List
 date: 2025-05-08
-project: "Spavy Self-Hosted"
-purpose: "6월 출시를 위한 준비 상황 점검용 통합 체크리스트"
-tags: [Spavy, Self-Hosted, Checklist, Launch]
-version: "1차~3차 회의 반영"
-contributors: [PM팀, 개발팀, 디자인팀, 마케팅팀]
+project: Spavy Self-Hosted
+purpose: 6월 출시를 위한 준비 상황 점검용 통합 체크리스트
+tags:
+  - Spavy
+  - Self-Hosted
+  - Checklist
+  - Launch
+version: 1차~3차 회의 반영
+contributors:
+  - 개발팀
+  - 사업팀
 ---
 
 ## 📘 체크리스트 배경
