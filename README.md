@@ -1,1 +1,0 @@
-# Spavy_Self-hosted
