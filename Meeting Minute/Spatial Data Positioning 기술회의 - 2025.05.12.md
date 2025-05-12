@@ -18,7 +18,7 @@ tags:
 status: 완료
 ---
 
-# 🧭 Spatial Data Positioning 기술회의 리뷰 - 2025.05.12
+# 🧭 Spatial Data Positioning 기술회의 - 2025.05.12
 
 ## 🔹 주요 변경/설계 개선사항
 
