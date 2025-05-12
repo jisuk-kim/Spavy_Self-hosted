@@ -36,13 +36,17 @@
             }
           },
           {
-            "id": "7076dbee440b3db7",
+            "id": "084437eb6f829e12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "무제"
             }
           }
         ],
@@ -205,11 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7076dbee440b3db7",
+  "active": "084437eb6f829e12",
   "lastOpenFiles": [
+    "2025-05-09 Spavy Self Hosted (SH) Check List.md",
+    "무제.md",
     "02. 개발/TEST_Spatial Data Positioning (Self hosted).md",
     "02. 개발",
-    "2025-05-09 Spavy Self Hosted (SH) Check List.md",
     "2025-05-09 Spavy SH 최종정리.md",
     "📋 할 일 대시보드.md",
     "README.md",
